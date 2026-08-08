@@ -233,6 +233,7 @@ const nextConfig = {
     ],
   },
   serverExternalPackages: [
+    "undici",
     "pino",
     "pino-pretty",
     "thread-stream",
